@@ -32,7 +32,7 @@ const projects = [
     title: "Namr-ALBarari",
     description:
      "A responsive, production-ready website for NAMR Al Barari, designed to showcase construction services with a modern, professional user experience.",
-   image: "public/namr.png",
+   image: "/namr.png",
     tags: ["React", "Tailwind", "EmailJS"],
     link: "#",
    // github: "#",
